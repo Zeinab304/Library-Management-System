@@ -1,0 +1,7 @@
+6
+1000	Clean Code	Robert C. Martin	true
+1001	Effective C++	Scott Meyers	true
+1002	Grokking Algorithms	Aditya Bhargava	true
+1003	Don't Make Me Think	Steve Krug	true
+1004	A Tour of C++	Bjarne Stroustrup	true
+1005	PYTHON	charle	true
